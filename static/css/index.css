@@ -41,7 +41,7 @@ body {
   left: auto;
   top: auto;
   transform: none;
-  object-fit: fit;
+  object-fit: cover;
 }
 
 .publication-header .hero-body {
